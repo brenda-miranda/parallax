@@ -1,0 +1,88 @@
+/* Global 
+------------------------------ */
+body, html {
+    font: 16px "Lato", sans-serif;
+    color: #777;
+    margin: 0;
+    height: 100%;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #111;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content {
+    color: #777;
+    text-align: justify;
+    padding: 50px 80px;
+    background-color: white;
+}
+
+
+
+/* Parallax
+------------------------------ */
+.img-1, .img-2, .img-3, .img-4 {
+    height: 100%;
+    opacity: 0.9;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.img-1 {
+    background-image: url(../img/imagem1.jpg);
+}
+
+.img-2 {
+    background-image: url(../img/imagem2.jpg);
+}
+
+.img-3 {
+    background-image: url(../img/imagem3.jpg);
+}
+    
+.img-4 {
+    background-image: url(../img/imagem4.jpg);
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    position: absolute;
+
+}
+
+.title span.title-span {
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding: 18px;
+    background-color: #111;
+}
+
+
+
+/* Scrollbar 
+------------------------------ */
+::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+::-webkit-scrollbar {
+    width: 7px;
+    background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+    background: #949393;
+}
