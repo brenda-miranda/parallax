@@ -1,23 +1,24 @@
-# Efeito Parallax
+<h1 align="center">
+  Efeito Parallax :D
+</h1>
 
-### Layout de um site utilizando efeito parallax, scrollbar estilizada e favicon.
+### Este é o meu sexto projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios está sendo possível acompanhar uma timeline da minha evolução.
+________
+ 
+### 📚 Tecnologias utilizadas:
+* CSS
+* HTML
 
-Este é o meu sexto projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o curso de Desenvolvimento Web. 
+### ✨ Sobre o projeto e o que eu aprendi:
+Este projeto é o layout de um site utilizando efeito parallax
 
-Através dos repositórios está sendo possível acompanhar a minha evolução no aprendizado.
+ *Para este projeto eu aprendi como criar um efeito parallax, estilizar a scrollbar, adicionar um favicon.*
 
-### ~ Para este projeto, eu aprendi como utilizar:
-* Efeito Parallax
-* Estlização da Barra de Rolagem
-* Favicon
+### 📷 GIF do site:
+![](screenshots/1.gif)
+________
 
-## Screenshots do site:
-
-![](screenshots/1.png)
-![](screenshots/2.png)
-![](screenshots/3.png)
-![](screenshots/4.png)
-![](screenshots/5.png)
-![](screenshots/6.png)
-![](screenshots/7.png)
+<h4 align="center">
+  Feito com ❤ by Brenda Miranda
+</h4>
 
